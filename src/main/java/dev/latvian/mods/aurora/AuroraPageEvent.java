@@ -1,6 +1,6 @@
-package dev.latvian.mods.aurora;
+package dev.fire.mods.aurora;
 
-import dev.latvian.mods.aurora.page.WebPage;
+import dev.fire.mods.aurora.page.WebPage;
 import io.netty.handler.codec.http.FullHttpRequest;
 import net.minecraftforge.fml.common.eventhandler.Cancelable;
 import net.minecraftforge.fml.common.eventhandler.Event;

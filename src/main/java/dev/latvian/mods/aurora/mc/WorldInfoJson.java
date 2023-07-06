@@ -1,10 +1,10 @@
-package dev.latvian.mods.aurora.mc;
+package dev.fire.mods.aurora.mc;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import dev.latvian.mods.aurora.AuroraConfig;
-import dev.latvian.mods.aurora.PageType;
-import dev.latvian.mods.aurora.page.JsonWebPage;
+import dev.fire.mods.aurora.AuroraConfig;
+import dev.fire.mods.aurora.PageType;
+import dev.fire.mods.aurora.page.JsonWebPage;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.world.WorldServer;
 

@@ -1,10 +1,10 @@
-package dev.latvian.mods.aurora.mc;
+package dev.fire.mods.aurora.mc;
 
-import dev.latvian.mods.aurora.Aurora;
-import dev.latvian.mods.aurora.AuroraConfig;
-import dev.latvian.mods.aurora.AuroraHomePageEvent;
-import dev.latvian.mods.aurora.AuroraPageEvent;
-import dev.latvian.mods.aurora.page.HomePageEntry;
+import dev.fire.mods.aurora.Aurora;
+import dev.fire.mods.aurora.AuroraConfig;
+import dev.fire.mods.aurora.AuroraHomePageEvent;
+import dev.fire.mods.aurora.AuroraPageEvent;
+import dev.fire.mods.aurora.page.HomePageEntry;
 import net.minecraftforge.fml.common.Loader;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.ModContainer;

@@ -1,6 +1,6 @@
-package dev.latvian.mods.aurora.page;
+package dev.fire.mods.aurora.page;
 
-import dev.latvian.mods.aurora.PageType;
+import dev.fire.mods.aurora.PageType;
 import io.netty.handler.codec.http.HttpResponseStatus;
 
 /**

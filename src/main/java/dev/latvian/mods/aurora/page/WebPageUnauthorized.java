@@ -1,6 +1,6 @@
-package dev.latvian.mods.aurora.page;
+package dev.fire.mods.aurora.page;
 
-import dev.latvian.mods.aurora.tag.Tag;
+import dev.fire.mods.aurora.tag.Tag;
 import io.netty.handler.codec.http.HttpResponseStatus;
 
 /**

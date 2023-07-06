@@ -1,9 +1,9 @@
-package dev.latvian.mods.aurora.page;
+package dev.fire.mods.aurora.page;
 
-import dev.latvian.mods.aurora.AuroraHomePageEvent;
-import dev.latvian.mods.aurora.AuroraServer;
-import dev.latvian.mods.aurora.tag.Style;
-import dev.latvian.mods.aurora.tag.Tag;
+import dev.fire.mods.aurora.AuroraHomePageEvent;
+import dev.fire.mods.aurora.AuroraServer;
+import dev.fire.mods.aurora.tag.Style;
+import dev.fire.mods.aurora.tag.Tag;
 import net.minecraftforge.common.MinecraftForge;
 
 /**

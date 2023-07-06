@@ -1,6 +1,6 @@
-package dev.latvian.mods.aurora;
+package dev.fire.mods.aurora;
 
-import dev.latvian.mods.aurora.page.HomePageEntry;
+import dev.fire.mods.aurora.page.HomePageEntry;
 import net.minecraftforge.fml.common.eventhandler.Event;
 
 /**

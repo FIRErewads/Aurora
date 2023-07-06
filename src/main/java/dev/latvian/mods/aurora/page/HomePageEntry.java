@@ -1,4 +1,4 @@
-package dev.latvian.mods.aurora.page;
+package dev.fire.mods.aurora.page;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
-package dev.latvian.mods.aurora.tag;
+package dev.fire.mods.aurora.tag;
 
-import dev.latvian.mods.aurora.page.WebPage;
+import dev.fire.mods.aurora.page.WebPage;
 
 /**
  * @author LatvianModder
