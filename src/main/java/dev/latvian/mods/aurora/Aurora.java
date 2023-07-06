@@ -13,9 +13,9 @@ import net.minecraftforge.fml.common.event.FMLServerStoppingEvent;
 )
 public class Aurora
 {
-	public static final String MOD_ID = "aurora";
-	public static final String MOD_NAME = "Aurora";
-	public static final String VERSION = "0.0.0.aurora";
+	public static final String MOD_ID = "notaurora";
+	public static final String MOD_NAME = "NotAurora";
+	public static final String VERSION = "0.0.0.notaurora";
 
 	private static AuroraServer server;
 
