@@ -1,4 +1,4 @@
-package dev.latvian.mods.aurora;
+package dev.fire.mods.aurora;
 
 import net.minecraft.server.MinecraftServer;
 import net.minecraftforge.fml.common.Mod;

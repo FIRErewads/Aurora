@@ -1,7 +1,7 @@
-package dev.latvian.mods.aurora.page;
+package dev.fire.mods.aurora.page;
 
-import dev.latvian.mods.aurora.tag.PairedTag;
-import dev.latvian.mods.aurora.tag.Tag;
+import dev.fire.mods.aurora.tag.PairedTag;
+import dev.fire.mods.aurora.tag.Tag;
 
 /**
  * @author LatvianModder

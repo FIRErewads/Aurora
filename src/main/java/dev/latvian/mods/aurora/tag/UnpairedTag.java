@@ -1,4 +1,4 @@
-package dev.latvian.mods.aurora.tag;
+package dev.fire.mods.aurora.tag;
 
 import java.util.Map;
 

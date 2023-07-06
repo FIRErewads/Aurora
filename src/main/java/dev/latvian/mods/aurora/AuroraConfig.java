@@ -1,4 +1,4 @@
-package dev.latvian.mods.aurora;
+package dev.fire.mods.aurora;
 
 import net.minecraftforge.common.config.Config;
 import net.minecraftforge.common.config.ConfigManager;

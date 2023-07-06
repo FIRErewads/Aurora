@@ -1,3 +1,3 @@
 @javax.annotation.ParametersAreNonnullByDefault
 @mcp.MethodsReturnNonnullByDefault
-package dev.latvian.mods.aurora.page;
+package dev.fire.mods.aurora.page;

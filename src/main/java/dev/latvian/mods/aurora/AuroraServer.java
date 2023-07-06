@@ -1,9 +1,9 @@
-package dev.latvian.mods.aurora;
+package dev.fire.mods.aurora;
 
-import dev.latvian.mods.aurora.page.HomePage;
-import dev.latvian.mods.aurora.page.WebPage;
-import dev.latvian.mods.aurora.page.WebPageNotFound;
-import dev.latvian.mods.aurora.page.WebPageUnauthorized;
+import dev.fire.mods.aurora.page.HomePage;
+import dev.fire.mods.aurora.page.WebPage;
+import dev.fire.mods.aurora.page.WebPageNotFound;
+import dev.fire.mods.aurora.page.WebPageUnauthorized;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelFuture;
