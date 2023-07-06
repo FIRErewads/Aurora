@@ -31,7 +31,7 @@ minecraft {
 	runDir = "run"
 	mappings = project.mappings_version
 
-	replace "0.0.0.aurora", project.version
+	replace "0.0.0.notaurora", project.version
 	replaceIn "${mod_reference}"
 }
 
